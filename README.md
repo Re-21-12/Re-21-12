@@ -28,3 +28,11 @@
   <img src="https://github.com/Re-21-12/Re-21-12/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+<hr />
+<div style="text-align: center;">
+
+[![Re-21-12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight)](https://github.com/Re-21-12/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact)](https://github.com/Re-21-12/github-readme-stats)
+
+</div>
