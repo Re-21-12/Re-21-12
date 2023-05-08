@@ -1,3 +1,12 @@
+
+<hr />
+<div style="text-align: center;">
+
+[![Re-21-12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight)](https://github.com/Re-21-12/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight)](https://github.com/Re-21-12/github-readme-stats)
+
+</div>
 ## Knowledges, Languajes & Tools
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -16,18 +25,10 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-springboot-green"/>
 <img src="https://img.shields.io/badge/13-NextJS-black"/>
+<img src="https://img.shields.io/badge/%F0%9F%90%B3-Docker-blue"/>
 </div>
 
 <hr />
 <p align="center">
   <img src="https://github.com/Re-21-12/Re-21-12/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-<hr />
-<div style="text-align: center;">
-
-[![Re-21-12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight)](https://github.com/Re-21-12/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight)](https://github.com/Re-21-12/github-readme-stats)
-
-</div>
