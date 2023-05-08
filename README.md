@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight)](https://github.com/Re-21-12/github-readme-stats)
 <hr/>
 </div>
-## Knowledges, Languajes & Tools
+<h1 Knowledges, Languajes & Tools />
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
