@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-springboot-green"/>
-<img src="https://img.shields.io/badge/13-next-black"/>
+<img src="https://img.shields.io/badge/13-NextJS-black"/>
 </div>
 
 <hr />
