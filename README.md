@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="35%" >
   </a>
   <a href="https://github.com/Re-21-12/github-readme-stats" style="display: inline-block;" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight" alt="Re-21-12's GitHub stats" width="35%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight" alt="Re-21-12's GitHub stats" width="45%" >
   </a>
 <a href="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" style="display: inline-block;">
   <img src="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
