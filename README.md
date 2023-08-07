@@ -4,7 +4,7 @@
 <div align="center"> 
   <h1><b>Bienvenido</b></h1>
   <p>
-  Como podrás ver en mi perfil me llamo <b> <i>"Victor Macario"</i></b>. Actualmente, soy estudiante de <b>Ingeniería en Ciencias y Sistemas de la Computación</b>Me gusta conocer diversas tecnologías, y por aquí podrás encontrar algunos de los conocimientos que he ido adquiriendo por mi cuenta.</p>
+  Como podrás ver en mi perfil me llamo <b> <i>"Victor Macario"</i></b>. Actualmente, soy estudiante de <b>Ingeniería en Ciencias y Sistemas de la Computación</b> Me gusta conocer diversas tecnologías, y por aquí podrás encontrar algunos de los conocimientos que he ido adquiriendo por mi cuenta.</p>
 </div>
 
 <hr/>
