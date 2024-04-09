@@ -3,6 +3,10 @@
 
 <div align="justify"> 
   <h1><b>Bienvenido</b></h1>
+
+![image](https://github.com/Re-21-12/Re-21-12/assets/104967229/8bc976ce-444e-4e12-a1a5-bee8a0cbb9ae)
+
+  
   <hr/>
   <p>
   Actualmente, soy estudiante de <b>Ingeniería en Ciencias y Sistemas de la Computación</b> Me gusta conocer diversas tecnologías, y adquirir variados conocimientos en esta plataforma podras encontrar algunos de los conocimientos que he ido adquiriendo a traves del tiempo.</p>
