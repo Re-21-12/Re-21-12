@@ -3,13 +3,10 @@
 
 <div align="justify"> 
   <h1><b>Bienvenido</b></h1>
-  <p>
-  Actualmente, soy estudiante de <b>Ingeniería en Ciencias y Sistemas de la Computación</b> Me gusta conocer diversas tecnologías, y adquirir variados conocimientos en esta plataforma podras encontrar algunos de los conocimientos que he ido adquiriendo a traves del tiempo.</p>
+  <hr/>
+  <h2>
+  Actualmente, soy estudiante de <b>Ingeniería en Ciencias y Sistemas de la Computación</b> Me gusta conocer diversas tecnologías, y adquirir variados conocimientos en esta plataforma podras encontrar algunos de los conocimientos que he ido adquiriendo a traves del tiempo.</h2>
 </div>
-
-<hr/>
-
-
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; ">
 
