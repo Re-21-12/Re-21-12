@@ -10,22 +10,20 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; ">
 
-  <div align="justify-align-left"/>
+  <div align="center"/>
     <h2>Historial</h2>
-<a href="https://github.com/Re-21-12/github-readme-stats" style="display:inline-block;"  width="35%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="35%" >
+<a href="https://github.com/Re-21-12/github-readme-stats" style="display:inline-block;"  width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="23.33%" >
   </a>
   <a href="https://github.com/Re-21-12/github-readme-stats" style="display: inline-block;" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight" alt="Re-21-12's GitHub stats" width="45%" >
+    <img src="https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight" alt="Re-21-12's GitHub stats" width="33.33%" >
   </a>
 <a href="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" style="display: inline-block;">
-  <img src="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="Re-21-12's GitHub Streak" width="33.33%">
 </a>
-  
-
-
   </div>
-<div align="center">
+
+<div align="flex">
   <h2>Conocimientos</h2>
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify Badge">
