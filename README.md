@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; ">
 
-  <div align="center"/>
+  <div align="justify"/>
     <h2>Historial</h2>
 <a href="https://github.com/Re-21-12/github-readme-stats" style="display:inline-block;"  width="35%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="35%" >
