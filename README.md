@@ -2,7 +2,7 @@
 <center>
 
 <div align="justify"> 
-  <h1><b>Bienvenido</b></h1>
+  <h1 style="text-align-center"><b>Bienvenido</b></h1>
 
 ![image](https://github.com/Re-21-12/Re-21-12/assets/104967229/8bc976ce-444e-4e12-a1a5-bee8a0cbb9ae)
 
@@ -15,7 +15,6 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; ">
 
   <div align="center"/>
-    <h2>Historial</h2>
 <a href="https://github.com/Re-21-12/github-readme-stats" style="display:inline-block;"  width="45%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="23.33%" >
   </a>
@@ -28,7 +27,7 @@
   </div>
 
 <div align="flex">
-  <h2>Conocimientos</h2>
+  <h2 style="text-align-center"> Conocimientos</h2>
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify Badge">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
