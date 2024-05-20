@@ -16,7 +16,7 @@
 
   <div align="center"/>
 <a href="https://github.com/Re-21-12/github-readme-stats" style="display:inline-block;"  width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="23.33%" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="25.33%" >
   </a>
   <a href="https://github.com/Re-21-12/github-readme-stats" style="display: inline-block;" width="45%">
     <img src="https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight" alt="Re-21-12's GitHub stats" width="33.33%" >
