@@ -9,7 +9,7 @@
   
   <hr/>
   <p>
-  Actualmente, soy estudiante de <b>Ingeniería en Ciencias y Sistemas de la Computación</b> Me gusta conocer diversas tecnologías, y adquirir variados conocimientos en esta plataforma podras encontrar algunos de los conocimientos que he ido adquiriendo a traves del tiempo.</p>
+  Estudiante de <b>Ingenieria en Sistemas de Información y Ciencias de la Computación</b> Me interesa conocer diversas tecnologías, y adquirir variados conocimientos aca podras encontrar algunos de los conocimientos que he ido desarrollando a traves del tiempo.</p>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh; ">
@@ -18,12 +18,13 @@
 <a href="https://github.com/Re-21-12/github-readme-stats" style="display:inline-block;"  width="45%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-21-12&layout=compact&theme=tokyonight" alt="Top Langs" width="25.33%" >
   </a>
+ <a href="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" style="display: inline-block;">
+  <img src="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="Re-21-12's GitHub Streak" width="39.33%">
+</a> 
   <a href="https://github.com/Re-21-12/github-readme-stats" style="display: inline-block;" width="45%">
     <img src="https://github-readme-stats.vercel.app/api?username=Re-21-12&show_icons=true&theme=tokyonight" alt="Re-21-12's GitHub stats" width="33.33%" >
   </a>
-<!-- <a href="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" style="display: inline-block;">
-  <img src="https://streak-stats.demolab.com?user=Re-21-12&theme=tokyonight&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="Re-21-12's GitHub Streak" width="33.33%">
-</a> -->
+
   </div>
 
 <div align="flex">
@@ -40,7 +41,7 @@
  <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/%F0%9F%90%B3-Docker-blue"/>
-<!-- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> -->
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
 <!-- <img src="https://img.shields.io/badge/-springboot-green"/> -->
 
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
